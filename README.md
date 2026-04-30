@@ -37,3 +37,13 @@ I can upgrade this further into:
 
 ---
 
+## 🌟 Motivation
+
+“In crypto, trust is replaced by code.”
+
+---
+
+## 👨‍💻 Author
+
+Sohan Samanta
+🔗 https://github.com/Sohan-hub11
