@@ -10,10 +10,10 @@ It demonstrates how modern applications can leverage **secure communication, dec
 
 ## ✨ Features
 
+- 📡 User Interface
 - 🔐 Secure Data Handling  
 - 🪙 Crypto Concepts Implementation  
 - ⚡ Scalable Architecture  
-- 📡 API-based Communication  
 - 🧠 Modular Code Structure  
 
 ---
@@ -25,5 +25,3 @@ It demonstrates how modern applications can leverage **secure communication, dec
 </p>
 
 ---
-
-## 📁 Project Structure
