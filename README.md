@@ -46,3 +46,12 @@ I can upgrade this further into:
 ## 👨‍💻 Author
 
 Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11) <br>
+
+---
+
+## ⭐ Support
+
+If you like this repo:
+
+⭐ Star it  
+📢 Share it
