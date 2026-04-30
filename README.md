@@ -39,11 +39,10 @@ I can upgrade this further into:
 
 ## 🌟 Motivation
 
-“In crypto, trust is replaced by code.”
+  > “In crypto, trust is replaced by code.”
 
 ---
 
 ## 👨‍💻 Author
 
-Sohan Samanta
-🔗 https://github.com/Sohan-hub11
+Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11) <br>
